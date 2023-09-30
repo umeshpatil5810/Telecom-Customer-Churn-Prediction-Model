@@ -5,27 +5,27 @@ The Customer Churn in Telecommunications project focuses on understanding and pr
 
 ## Data Dictionary
 
-customerID: Unique identifier for each customer
-gender: Gender of the customer (Male/Female)
-SeniorCitizen: Whether the customer is a senior citizen or not (1 for Yes, 0 for No)
-Partner: Whether the customer has a partner (Yes/No)
-Dependents: Whether the customer has dependents (Yes/No)
-tenure: Number of months the customer has been with the company
-PhoneService: Whether the customer has a phone service (Yes/No)
-MultipleLines: Whether the customer has multiple lines (Yes/No/No phone service)
-InternetService: Type of internet service the customer has (DSL, Fiber optic, No)
-OnlineSecurity: Whether the customer has online security feature (Yes/No/No internet service)
-OnlineBackup: Whether the customer has online backup feature (Yes/No/No internet service)
-DeviceProtection: Whether the customer has device protection feature (Yes/No/No internet service)
-TechSupport: Whether the customer has tech support feature (Yes/No/No internet service)
-StreamingTV: Whether the customer has streaming TV feature (Yes/No/No internet service)
-StreamingMovies: Whether the customer has streaming movies feature (Yes/No/No internet service)
-Contract: Type of contract the customer has (Month-to-month, One year, Two year)
-PaperlessBilling: Whether the customer has opted for paperless billing (Yes/No)
-PaymentMethod: Method of payment (Electronic check, Mailed check, Bank transfer, Credit card)
-MonthlyCharges: Monthly charges for the customer
-TotalCharges: Total charges for the customer till date
-Churn: Whether the customer churned or not (Yes is 1/No is 0)).                                                        |
+1)customerID: Unique identifier for each customer
+2)gender: Gender of the customer (Male/Female)
+3)SeniorCitizen: Whether the customer is a senior citizen or not (1 for Yes, 0 for No)
+4)Partner: Whether the customer has a partner (Yes/No)
+5)Dependents: Whether the customer has dependents (Yes/No)
+6)tenure: Number of months the customer has been with the company
+7)PhoneService: Whether the customer has a phone service (Yes/No)
+8)MultipleLines: Whether the customer has multiple lines (Yes/No/No phone service)
+9)InternetService: Type of internet service the customer has (DSL, Fiber optic, No)
+10)OnlineSecurity: Whether the customer has online security feature (Yes/No/No internet service)
+11)OnlineBackup: Whether the customer has online backup feature (Yes/No/No internet service)
+12)DeviceProtection: Whether the customer has device protection feature (Yes/No/No internet service)
+13)TechSupport: Whether the customer has tech support feature (Yes/No/No internet service)
+14)StreamingTV: Whether the customer has streaming TV feature (Yes/No/No internet service)
+15)StreamingMovies: Whether the customer has streaming movies feature (Yes/No/No internet service)
+16)Contract: Type of contract the customer has (Month-to-month, One year, Two year)
+17)PaperlessBilling: Whether the customer has opted for paperless billing (Yes/No)
+18)PaymentMethod: Method of payment (Electronic check, Mailed check, Bank transfer, Credit card)
+19)MonthlyCharges: Monthly charges for the customer
+20)TotalCharges: Total charges for the customer till date
+21)Churn: Whether the customer churned or not (Yes is 1/No is 0)).                                                        |
 
 
 ## Project Goals
